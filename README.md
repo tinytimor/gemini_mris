@@ -8,9 +8,9 @@ The dataset from Kaggle includes MRI images that are labeled based on the presen
 
 ## Gemini Pro Vision - Proof of Concept
 
-We are utilizing Google's Gemini Pro Vision to process the MRI images in this dataset. The purpose is to create a proof of concept that can assist radiologists in generating template reports.
+I am utilizing Google's Gemini Pro Vision to process the MRI images in this dataset. The purpose is to create a proof of concept that can assist radiologists in generating template reports.
 
-The Python code snippet included in this repository demonstrates how to use the Gemini Pro Vision model to analyze MRI images and generate preliminary medical reports, which can then be reviewed and finalized by medical professionals.
+The Python code snippet included in this repository demonstrates how to use the Gemini Pro Vision model with LangChain prompt the model to analyze MRI images and generate preliminary medical reports, which can then be reviewed and finalized by medical professionals, such as radiologists. 
 
 ## Usage
 
@@ -23,11 +23,6 @@ Below is a conceptual example of how the output might look:
 ### Example Reports
 
 - **Case 1**: A report for a patient diagnosed with glioblastoma.
-`* **Patient:** A 55-year-old male with a history of hypertension and diabetes.
-* **Chief complaint:** The patient presents with a 2-week history of progressive headaches and nausea.
-* **MRI findings:** The MRI shows a large, enhancing mass in the right frontal lobe of the brain. The mass is causing a significant amount of edema and mass effect.
-* **Diagnosis:** The patient is diagnosed with a glioblastoma.
-* **Treatment:** The patient is started on chemotherapy and radiation therapy.`
 - **Case 2**: A report for a patient with metastatic breast cancer.
 - **Case 3**: A report for a patient with a subarachnoid hemorrhage.
 
