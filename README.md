@@ -21,10 +21,39 @@ The Python code snippet included in this repository demonstrates how to use the 
 Below is a conceptual example of how the output might look:
 
 ### Example Reports
+File name data/glioma/Te-gl_0010.jpg
 
-- **Case 1**: A report for a patient diagnosed with glioblastoma.
-- **Case 2**: A report for a patient with metastatic breast cancer.
-- **Case 3**: A report for a patient with a subarachnoid hemorrhage.
+**Case 1**
+
+* **Patient:** John Smith
+* **Age:** 45
+* **Sex:** Male
+* **Date:** 01/01/2023
+* **Study:** T2 MRI of the brain
+* **Diagnosis:** Encephalomalacia
+
+**Findings:**
+
+* There is a large area of encephalomalacia in the right frontal lobe.
+* The encephalomalacia is surrounded by a rim of gliosis.
+* There is no evidence of mass effect.
+
+**Impression:**
+
+* Encephalomalacia in the right frontal lobe.
+
+**Differential Diagnosis**
+* Stroke
+* Trauma
+* Infection
+* Tumor
+
+**Recommendations:**
+
+* The patient should be evaluated by a neurologist.
+* The patient should undergo a CT scan of the brain to rule out any other pathology.
+* The patient should be started on a course of corticosteroids to reduce inflammation.
+
 
 ## Contributing
 
