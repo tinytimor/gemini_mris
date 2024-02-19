@@ -6,11 +6,18 @@ This repository contains a dataset of MRI scans used for the detection of brain 
 
 The dataset from Kaggle includes MRI images that are labeled based on the presence of brain tumors. For detailed information and to download the dataset, please visit the [Kaggle Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset).
 
-## Gemini Pro Vision - Proof of Concept
+## Gemini Pro Vision & OpenAI Whisper - Proof of Concept
 
 I am utilizing Google's Gemini Pro Vision to process the MRI images in this dataset. The purpose is to create a proof of concept that can assist radiologists in generating template reports.
 
 The Python code snippet included in this repository demonstrates how to use the Gemini Pro Vision model with LangChain to prompt the model to analyze MRI images and generate preliminary medical reports, which can then be reviewed and finalized by medical professionals, such as radiologists. 
+
+Once the reports are created, I use OpenAI's Whisper model to generate audio files to allow radiologists to have the flexibility to listen to the radiological reports instead of reading them. This application of Whisper's Text-to-Speech (TTS) technology offers several potential impacts and opportunities in the medical field:
+
+1. Learning and Training: Audio files can be used in educational settings, allowing students to listen to sample reports and familiarize themselves with radiological terminology and diagnosis processes.
+2. Patient Communication: Simplified audio reports could be shared with patients to help them better understand their diagnoses in a more accessible format.
+3. Language Translation: Coupled with language translation models, the Whisper TTS model can generate reports in multiple languages, improving the inclusivity and accessibility for non-English speaking patients and professionals.
+4. Documentation and Archiving: Audio archives of radiological reports can complement written records, offering an additional layer of documentation for clinical cases.
 
 ## Usage
 
@@ -25,7 +32,7 @@ Below is a conceptual example of how the output might look:
 
 ![Te-gl_0010](https://github.com/tinytimor/gemini_mris/assets/108763451/9325596c-ccc2-4280-a26b-e91565628c7c)
 
-Audio Generation of Radiology Report Generated from OpenAI's Whisper, Text-To-Speech (TTS), model:
+Audio Generation of Radiology Report Generated from OpenAI's Whisper:
 https://github.com/tinytimor/gemini_mris/assets/108763451/93edab8f-d9b8-4903-9c18-cc56013e8adb
 
 **Case 1**
