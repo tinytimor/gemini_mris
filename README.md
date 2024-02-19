@@ -23,7 +23,7 @@ Below is a conceptual example of how the output might look:
 ### Example Reports
 
 ![Te-gl_0010](https://github.com/tinytimor/gemini_mris/assets/108763451/9325596c-ccc2-4280-a26b-e91565628c7c)
-![Audio](https://github.com/tinytimor/gemini_mris/assets/108763451/d217e640-26cb-4ce0-ad35-77050817959e)
+https://github.com/tinytimor/gemini_mris/assets/108763451/d217e640-26cb-4ce0-ad35-77050817959e
 
 **Case 1**
 
