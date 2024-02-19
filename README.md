@@ -1,4 +1,4 @@
-# Brain Tumor MRI Analysis with Gemini Pro Vision
+# Brain Tumor MRI Analysis with Gemini Pro Vision & OpenAI Whisper
 
 This repository contains a dataset of MRI scans used for the detection of brain tumors. The dataset, sourced from Kaggle, includes a variety of MRI images that can be instrumental in training machine learning models for medical diagnostic processes.
 
