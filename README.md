@@ -10,14 +10,20 @@ The dataset from Kaggle includes MRI images that are labeled based on the presen
 
 I am utilizing Google's Gemini Pro Vision to process the MRI images in this dataset. The purpose is to create a proof of concept that can assist radiologists in generating template reports.
 
-The Python code snippet included in this repository demonstrates how to use the Gemini Pro Vision model with LangChain to prompt the model to analyze MRI images and generate preliminary medical reports, which can then be reviewed and finalized by medical professionals, such as radiologists. 
+The Python code snippet included in this repository demonstrates how to use the Gemini Pro Vision model with LangChain to prompt the model to analyze MRI images and generate preliminary medical reports, which can then be reviewed and finalized by medical professionals, such as radiologists. The impact of the work can be help with:
+
+- **Efficiency**: Saves time for medical professionals by automating the initial analysis process
+- **Triaging**: Helps prioritize urgent cases by quickly identifying abnormalities
+- **Workflow optimization**: Increases efficiency in the healthcare system by streamlining workflows
+- **Diagnosis facilitation**: Provides a starting point for further investigation and treatment planning
+- **Accuracy and consistency**: Enhances accuracy and consistency in report generation
 
 Once the reports are created, I use OpenAI's Whisper model to generate audio files to allow radiologists to have the flexibility to listen to the radiological reports instead of reading them. This application of Whisper's Text-to-Speech (TTS) technology offers several potential impacts and opportunities in the medical field:
 
-1. Learning and Training: Audio files can be used in educational settings, allowing students to listen to sample reports and familiarize themselves with radiological terminology and diagnosis processes.
-2. Patient Communication: Simplified audio reports could be shared with patients to help them better understand their diagnoses in a more accessible format.
-3. Language Translation: Coupled with language translation models, the Whisper TTS model can generate reports in multiple languages, improving the inclusivity and accessibility for non-English speaking patients and professionals.
-4. Documentation and Archiving: Audio archives of radiological reports can complement written records, offering an additional layer of documentation for clinical cases.
+- **Learning and Training**: Audio files can be used in educational settings, allowing students to listen to sample reports and familiarize themselves with radiological terminology and diagnosis processes.
+- **Patient Communication**: Simplified audio reports could be shared with patients to help them better understand their diagnoses in a more accessible format.
+- **Language Translation**: Coupled with language translation models, the Whisper TTS model can generate reports in multiple languages, improving the inclusivity and accessibility for non-English speaking patients and professionals.
+- **Documentation and Archiving**: Audio archives of radiological reports can complement written records, offering an additional layer of documentation for clinical cases.
 
 ## Usage
 
