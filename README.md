@@ -18,7 +18,7 @@ The Python code snippet included in this repository demonstrates how to use the 
 - **Diagnosis facilitation**: Provides a starting point for further investigation and treatment planning
 - **Accuracy and consistency**: Enhances accuracy and consistency in report generation
 
-Once the reports are created, I use OpenAI's Whisper model to generate audio files to allow radiologists to have the flexibility to listen to the radiological reports instead of reading them. This application of Whisper's Text-to-Speech (TTS) technology offers several potential impacts and opportunities in the medical field:
+Once the reports are created, I use OpenAI's Whisper model to generate audio files to allow radiologists to have the flexibility to listen to the radiological reports instead of reading them. This application of Whisper's Text-to-Speech (TTS) model offers several potential impacts and opportunities in the medical field:
 
 - **Learning and Training**: Audio files can be used in educational settings, allowing students to listen to sample reports and familiarize themselves with radiological terminology and diagnosis processes.
 - **Patient Communication**: Simplified audio reports could be shared with patients to help them better understand their diagnoses in a more accessible format.
