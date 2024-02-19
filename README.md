@@ -14,19 +14,19 @@ The Python code snippet included in this repository demonstrates how to use the 
 
 ## Usage
 
-1. Set your `GOOGLE_API_KEY` in the environment.
+1. Set your `GOOGLE_API_KEY` and `api_key` (OpenAI's API Key) in the environment.
 2. Process the MRI images using the Gemini Pro Vision model.
-3. Generate a medical report for each image.
+3. Generate a medical report for each image in the gemini_w_mri_data.ipynb.
+4. Generate an audio file from OpenAI Whisper model in the whisper_audio_report_generation.ipynb.  
 
 Below is a conceptual example of how the output might look:
 
 ### Example Reports
 
 ![Te-gl_0010](https://github.com/tinytimor/gemini_mris/assets/108763451/9325596c-ccc2-4280-a26b-e91565628c7c)
-<audio controls>
-  <source src="(https://github.com/tinytimor/gemini_mris/assets/108763451/d217e640-26cb-4ce0-ad35-77050817959e)" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+
+Audio Generation of Radiology Report Generated from OpenAI's Whisper, Text-To-Speech (TTS), model:
+![Audio](https://github.com/tinytimor/gemini_mris/assets/108763451/d217e640-26cb-4ce0-ad35-77050817959e)
 
 **Case 1**
 
