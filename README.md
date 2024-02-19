@@ -26,7 +26,7 @@ Below is a conceptual example of how the output might look:
 ![Te-gl_0010](https://github.com/tinytimor/gemini_mris/assets/108763451/9325596c-ccc2-4280-a26b-e91565628c7c)
 
 Audio Generation of Radiology Report Generated from OpenAI's Whisper, Text-To-Speech (TTS), model:
-![Audio](https://github.com/tinytimor/gemini_mris/assets/108763451/d217e640-26cb-4ce0-ad35-77050817959e)
+https://github.com/tinytimor/gemini_mris/assets/108763451/93edab8f-d9b8-4903-9c18-cc56013e8adb
 
 **Case 1**
 
