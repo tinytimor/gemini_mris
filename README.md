@@ -10,7 +10,7 @@ The dataset from Kaggle includes MRI images that are labeled based on the presen
 
 I am utilizing Google's Gemini Pro Vision to process the MRI images in this dataset. The purpose is to create a proof of concept that can assist radiologists in generating template reports.
 
-The Python code snippet included in this repository demonstrates how to use the Gemini Pro Vision model with LangChain prompt the model to analyze MRI images and generate preliminary medical reports, which can then be reviewed and finalized by medical professionals, such as radiologists. 
+The Python code snippet included in this repository demonstrates how to use the Gemini Pro Vision model with LangChain to prompt the model to analyze MRI images and generate preliminary medical reports, which can then be reviewed and finalized by medical professionals, such as radiologists. 
 
 ## Usage
 
