@@ -2,6 +2,9 @@
 
 This repository contains a dataset of MRI scans used for the detection of brain tumors. The dataset, sourced from Kaggle, includes a variety of MRI images that can be instrumental in training machine learning models for medical diagnostic processes.
 
+https://github.com/tinytimor/gemini_mris/assets/108763451/4f980f48-f3ce-4981-8f0c-df91a19c44c8
+
+
 ## Dataset
 
 The dataset from Kaggle includes MRI images that are labeled based on the presence of brain tumors. For detailed information and to download the dataset, please visit the [Kaggle Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset).
@@ -39,7 +42,8 @@ Below is a conceptual example of how the output might look:
 ![Te-gl_0010](https://github.com/tinytimor/gemini_mris/assets/108763451/9325596c-ccc2-4280-a26b-e91565628c7c)
 
 Audio Generation of Radiology Report Generated from OpenAI's Whisper:
-https://github.com/tinytimor/gemini_mris/assets/108763451/93edab8f-d9b8-4903-9c18-cc56013e8adb
+
+https://github.com/tinytimor/gemini_mris/assets/108763451/36d09240-e7fd-4058-818a-781be05fe6f6
 
 **Case 1**
 
