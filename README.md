@@ -72,6 +72,8 @@ https://github.com/tinytimor/gemini_mris/assets/108763451/93edab8f-d9b8-4903-9c1
 * The patient should undergo a CT scan of the brain to rule out any other pathology.
 * The patient should be started on a course of corticosteroids to reduce inflammation.
 
+### Another Audio Example
+https://github.com/tinytimor/gemini_mris/assets/108763451/f03cab29-2ce4-4d75-9dde-f6d003938a5f
 
 ## Contributing
 
